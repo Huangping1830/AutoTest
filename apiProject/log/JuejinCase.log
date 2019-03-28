@@ -1,0 +1,9 @@
+2017-11-26 10:11:48,723 - JuejinCase - INFO - test_b - response : {
+  "s": 1,
+  "m": "success",
+  "d": {
+    "token": "eyJhY2Nlc3NfdG9rZW4iOiI1QVVqeFdTRFhxUTI1T3ZXIiwicmVmcmVzaF90b2tlbiI6Ikt6RUQ2cEhVcGJyYk1xZGgiLCJ0b2tlbl90eXBlIjoibWFjIiwiZXhwaXJlX2luIjoyNTkyMDAwfQ==",
+    "user_id": "5a07f9b2518825619a022a9c",
+    "state": "8oiS9Hb96g"
+  }
+}
