@@ -83,6 +83,6 @@ if __name__ == "__main__":
     tables =opers.get_data()
     row = tables.nrows
     col =tables.ncols
-    print opers.get_cell_value(2,2)
-    print row,col
+    print(opers.get_cell_value(2,2))
+    print(row,col)
 

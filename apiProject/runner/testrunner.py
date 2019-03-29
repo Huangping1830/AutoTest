@@ -68,5 +68,5 @@ class Runer(object):
 
 if __name__ == "__main__":
     a = Runer()
-    print a._get_report_name()
+    print(a._get_report_name())
     a.run()

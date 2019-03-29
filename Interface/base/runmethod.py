@@ -43,4 +43,4 @@ if __name__ == '__main__':
         "CustomerId": 347373
     }
     res = run.run_main('post',url,data)
-    print res
+    print(res)

@@ -26,7 +26,7 @@ class OperationJson:
 
 if __name__ =='__main__':
     opjson = OperationJson()
-    print opjson.get_data('getdata1')
+    print(opjson.get_data('getdata1'))
 
 
 

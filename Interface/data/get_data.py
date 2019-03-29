@@ -6,7 +6,7 @@ import sys
 sys.path.append("F:/05-workspace/AutoTest/Interface")
 from util.operation_excel import OperationExcel
 from util.operation_json import OperationJson
-import data_config
+from data import data_config
 
 class GetData:
     def __init__(self):

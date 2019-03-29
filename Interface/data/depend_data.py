@@ -44,7 +44,7 @@ if __name__ == "__main__":
     res ="data.out_trade_no"
     json_exe = parse(res)
     madle = json_exe.find(order)
-    print [math.value for math in madle[0]]
+    print([math.value for math in madle[0]])
 
 
 
