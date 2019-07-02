@@ -13,14 +13,15 @@ https://learngitbranching.js.org/?demo&_sm_au_=iVVqLSRqQ0v67ZkQ
 
 https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
 
-RabbitMQ Management  ╧╓╬ъё©ё©ё©
+RabbitMQ Management  б╧б╓б╬ц÷бёб©бёб©бёб©
 
 https://www.kancloud.cn/zldev/apidoc/76361
 
 https://gitee.com/explore/starred?lang=Python&page=3
 
-postman ╤оят
+postman б╤ц▐ц▒ц■
 https://www.html.cn/doc/lodash/#_pullarray-values
 
 
 http://python.jobbole.com/81359/
+
