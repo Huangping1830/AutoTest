@@ -1,0 +1,86 @@
+{
+  "uid" : "d2e15451f0b2cc59",
+  "name" : "test_3",
+  "fullName" : "test_sample.TestClass#test_3",
+  "historyId" : "f9a6e8356b865015a7568dd9369132f0",
+  "time" : {
+    "start" : 1556073510868,
+    "stop" : 1556073510869,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fae6685d38929b73",
+      "name" : "log",
+      "source" : "fae6685d38929b73.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "66ff64e171f442b1",
+      "name" : "stdout",
+      "source" : "66ff64e171f442b1.txt",
+      "type" : "text/plain",
+      "size" : 15
+    }, {
+      "uid" : "b5f2cab91d61a8eb",
+      "name" : "stderr",
+      "source" : "b5f2cab91d61a8eb.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "功能测试用例3"
+  }, {
+    "name" : "feature",
+    "value" : "测试用例功能"
+  }, {
+    "name" : "suite",
+    "value" : "test_sample"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-I0E9IQH"
+  }, {
+    "name" : "thread",
+    "value" : "24264-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_sample"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2e15451f0b2cc59.json",
+  "parameterValues" : [ ]
+}

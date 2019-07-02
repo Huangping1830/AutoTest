@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_sample.TestClass#test_1","1",""
+"passed","test_sample.TestClass#test_3","1",""
+"passed","test_sample.TestClass#test_2","1",""
