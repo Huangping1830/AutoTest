@@ -2,8 +2,8 @@
 '''
 封装获取接口数据
 '''
-import sys
-sys.path.append("F:/05-workspace/AutoTest/Interface")
+from path_dir import *
+sys.path.append(path_root)
 from util.operation_excel import OperationExcel
 from util.operation_json import OperationJson
 from data import data_config

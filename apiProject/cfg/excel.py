@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import os
-import json
+
 import xlrd
 import datetime
 from xlutils.copy import copy

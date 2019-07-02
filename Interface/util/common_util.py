@@ -18,7 +18,7 @@ class CommonUtil:
             str_one = str_one.encode('utf-8')
         if isinstance(str_two,str):
             str_two = str_two.encode('utf-8')
-        if str_one in str_two:
+        if str_two is not None and str_one in str_two:
             flag =True
         else:
             flag=False
